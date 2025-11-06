@@ -1,0 +1,15 @@
+pandas
+numpy>=2.3.3
+ipykernel>=6.30.1
+matplotlib>=3.10
+seaborn
+scipy
+statsmodels
+scikit-learn>=1.7.2
+requests
+shiny>=1.5.0
+jinja2
+plotly
+nbformat
+kagglehub
+statistics
