@@ -14,3 +14,4 @@ nbformat
 kagglehub
 statistics
 shinywidgets
+seaborn
